@@ -17,7 +17,6 @@ vim.g.maplocalleader = "" -- Same for `maplocalleader`
 local plugins = {
   require('plugins.conform'),
   require('plugins.volt'),
-  require('plugins.minty'),
   require('plugins.hlchunk'),
   require('plugins.diagnostic'),
 
@@ -32,7 +31,6 @@ local plugins = {
   require('plugins.mason'),
   require('plugins.telescope'),
   require('plugins.tree'),
-  require('plugins.colorizer'),
   require('plugins.whichkey'),
   { "folke/neoconf.nvim", cmd = "Neoconf" },
   "folke/neodev.nvim",
