@@ -1,0 +1,12 @@
+* {
+   font: "JetBrainsMono NF Bold 9";
+   background : #141b1e;
+   background-alt: #232a2d;
+   //foreground : #6cbfbf;
+   foreground : #dadada;
+   selected : #67b0e8;
+   active : #8ccf7e;
+   urgent: #e57474;
+    
+   //img-background: url("~/.config/bspwm/rices/emilia/rofi.webp", width);
+}
